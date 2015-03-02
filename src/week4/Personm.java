@@ -10,5 +10,5 @@ package week4;
  * @author 1208257
  */
 public class Personm {
-	private String name = "paul";
+	private String name = "psssasaaul";
 }
